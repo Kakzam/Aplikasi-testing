@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864832812317",
+    "firebase_url": "https://login-idea6.firebaseio.com",
+    "project_id": "login-idea6",
+    "storage_bucket": "login-idea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864832812317:android:e6c1031e4ef9a89f",
+        "android_client_info": {
+          "package_name": "com.jibril.malaikat.layoutsatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864832812317-qrdf1rqns1hh8m9p8aghv95pmubijnlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaUfovyPjT0zSD1NqzQHlV0_GZX_hBhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
